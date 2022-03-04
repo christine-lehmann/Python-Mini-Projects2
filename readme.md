@@ -1,3 +1,3 @@
-# OTP Generator
+# Python Mini Projects
 
 ## Simple projects for beginners
