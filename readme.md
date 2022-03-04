@@ -1,3 +1,3 @@
-# Javascript Projects
+# OTP Generator
 
 ## Simple projects for beginners
